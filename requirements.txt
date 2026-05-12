@@ -1,1 +1,2 @@
 # Nenhuma dependência externa necessária
+# Standard Library Only
